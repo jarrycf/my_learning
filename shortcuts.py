@@ -1,0 +1,9 @@
+单行注释：ctrl+/
+多行注释：alt+shift+a
+移动一行：alr+up/down
+复制改行：shift+alt+up/down
+删除改行：shift+win+k
+选中改行:cmd+l
+选中下一个相同的；cmd+d
+任意处换行：cmd+enter
+选中所有的目标变量:CTRL+Shift+L 
